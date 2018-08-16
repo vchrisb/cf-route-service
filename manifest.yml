@@ -1,0 +1,6 @@
+---
+applications:
+- name: route-service
+  path: target/route-service-1.0.0.BUILD-SNAPSHOT.jar
+  env:
+    VALID_IPS: 1.2.3.4, 5.6.7.8
