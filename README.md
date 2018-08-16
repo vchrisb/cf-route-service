@@ -15,7 +15,7 @@ Else:
 1. Logs information about that unauthorized request
 2. response with a HTTP 403 status
 
-Based on work from @nebhale in [route-service-example][y]
+Based on work from @nebhale in [route-service-example][n]
 
 ## Requirements
 ### Java, Maven
